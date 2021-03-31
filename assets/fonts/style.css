@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Goudy Old Style Bold';
+   font-display: swap;
+   src: url('Goudy Old Style Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Goudy Old Style Regular';
+   font-display: swap;
+   src: url('Goudy Old Style Regular/font.ttf');
+}
